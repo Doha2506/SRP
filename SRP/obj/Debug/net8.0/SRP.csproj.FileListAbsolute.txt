@@ -38,6 +38,7 @@ F:\CRUD\SRP\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
 F:\CRUD\SRP\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
 F:\CRUD\SRP\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
 F:\CRUD\SRP\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+F:\CRUD\SRP\SRP\obj\Debug\net8.0\SRP.sourcelink.json
 F:\CRUD\SRP\SRP\obj\Debug\net8.0\SRP.csproj.Up2Date
 F:\CRUD\SRP\SRP\obj\Debug\net8.0\SRP.dll
 F:\CRUD\SRP\SRP\obj\Debug\net8.0\refint\SRP.dll
