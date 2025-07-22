@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CRUD\\SRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|f:\\crud\\srp\\srp\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|solutionrelative:srp\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|f:\\crud\\srp\\srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|solutionrelative:srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|f:\\crud\\srp\\srp\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|solutionrelative:srp\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|f:\\crud\\srp\\srp\\services\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|solutionrelative:srp\\services\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|f:\\crud\\srp\\srp\\interfaces\\iproductfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|solutionrelative:srp\\interfaces\\iproductfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|f:\\crud\\srp\\srp\\interfaces\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|solutionrelative:srp\\interfaces\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|f:\\crud\\srp\\srp\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FFEEA9-EB4F-49D8-910F-73EFC413DB22}|SRP\\SRP.csproj|solutionrelative:srp\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\CRUD\\SRP\\SRP\\ProductService.cs",
+              "RelativeDocumentMoniker": "SRP\\ProductService.cs",
+              "ToolTip": "F:\\CRUD\\SRP\\SRP\\ProductService.cs",
+              "RelativeToolTip": "SRP\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:38:49.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "F:\\CRUD\\SRP\\SRP\\Services\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "SRP\\Services\\EmailNotifier.cs",
+              "ToolTip": "F:\\CRUD\\SRP\\SRP\\Services\\EmailNotifier.cs",
+              "RelativeToolTip": "SRP\\Services\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:40:35.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "F:\\CRUD\\SRP\\SRP\\Services\\FileLogger.cs",
+              "RelativeDocumentMoniker": "SRP\\Services\\FileLogger.cs",
+              "ToolTip": "F:\\CRUD\\SRP\\SRP\\Services\\FileLogger.cs",
+              "RelativeToolTip": "SRP\\Services\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:40:26.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CRUD\\SRP\\SRP\\Program.cs",
+              "RelativeDocumentMoniker": "SRP\\Program.cs",
+              "ToolTip": "F:\\CRUD\\SRP\\SRP\\Program.cs",
+              "RelativeToolTip": "SRP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:33:27.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductFetcher.cs",
+              "DocumentMoniker": "F:\\CRUD\\SRP\\SRP\\Interfaces\\IProductFetcher.cs",
+              "RelativeDocumentMoniker": "SRP\\Interfaces\\IProductFetcher.cs",
+              "ToolTip": "F:\\CRUD\\SRP\\SRP\\Interfaces\\IProductFetcher.cs",
+              "RelativeToolTip": "SRP\\Interfaces\\IProductFetcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:39:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "F:\\CRUD\\SRP\\SRP\\Interfaces\\INotifier.cs",
+              "RelativeDocumentMoniker": "SRP\\Interfaces\\INotifier.cs",
+              "ToolTip": "F:\\CRUD\\SRP\\SRP\\Interfaces\\INotifier.cs",
+              "RelativeToolTip": "SRP\\Interfaces\\INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:40:04.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "F:\\CRUD\\SRP\\SRP\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "SRP\\Interfaces\\ILogger.cs",
+              "ToolTip": "F:\\CRUD\\SRP\\SRP\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "SRP\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:39:44.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
